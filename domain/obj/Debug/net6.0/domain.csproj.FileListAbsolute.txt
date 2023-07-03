@@ -1,0 +1,12 @@
+/mnt/Data/work/AbstractLab/repos/mihai-osvat/domain/bin/Debug/net6.0/domain.deps.json
+/mnt/Data/work/AbstractLab/repos/mihai-osvat/domain/bin/Debug/net6.0/domain.dll
+/mnt/Data/work/AbstractLab/repos/mihai-osvat/domain/bin/Debug/net6.0/ref/domain.dll
+/mnt/Data/work/AbstractLab/repos/mihai-osvat/domain/bin/Debug/net6.0/domain.pdb
+/mnt/Data/work/AbstractLab/repos/mihai-osvat/domain/obj/Debug/net6.0/domain.csproj.AssemblyReference.cache
+/mnt/Data/work/AbstractLab/repos/mihai-osvat/domain/obj/Debug/net6.0/domain.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/Data/work/AbstractLab/repos/mihai-osvat/domain/obj/Debug/net6.0/domain.AssemblyInfoInputs.cache
+/mnt/Data/work/AbstractLab/repos/mihai-osvat/domain/obj/Debug/net6.0/domain.AssemblyInfo.cs
+/mnt/Data/work/AbstractLab/repos/mihai-osvat/domain/obj/Debug/net6.0/domain.csproj.CoreCompileInputs.cache
+/mnt/Data/work/AbstractLab/repos/mihai-osvat/domain/obj/Debug/net6.0/domain.dll
+/mnt/Data/work/AbstractLab/repos/mihai-osvat/domain/obj/Debug/net6.0/ref/domain.dll
+/mnt/Data/work/AbstractLab/repos/mihai-osvat/domain/obj/Debug/net6.0/domain.pdb

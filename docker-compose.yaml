@@ -1,0 +1,17 @@
+version: "3.3"
+services:
+    postgres:
+        image: postgres
+        restart: always
+        environment: 
+            POSTGRES_PASSWORD: Th1rt3en#
+            POSTGRES_DB: mihai-osvat
+        ports: 
+            - 5432:5432
+        volumes: 
+            -   type: "volume"
+                source: mih-pg-vol
+                target: /var/lib/postgresql/data
+
+volumes: 
+    mih-pg-vol:
